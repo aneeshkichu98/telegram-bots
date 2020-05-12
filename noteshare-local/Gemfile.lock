@@ -12,7 +12,7 @@ GEM
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
     equalizer (0.0.11)
-    excon (0.62.0)
+    excon (0.73.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     ice_nine (0.11.2)
